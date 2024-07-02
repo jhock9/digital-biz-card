@@ -1,5 +1,5 @@
 {
-  "name": "Jon Hocker Business Card",
+  "name": "Digital Business Card",
   "description": "Digital Business Card",
   "scripts": {
     "watch": "webpack -w",
