@@ -1,6 +1,6 @@
 import React from 'react';
-import headshot from './assets/jon-headshot.webp';
-import emailIcon from './assets/email-icon.png';
+import headshot from '/assets/jon-headshot.webp';
+import emailIcon from '/assets/email-icon.png';
 
 const Info = () => {
   return (
