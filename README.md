@@ -77,9 +77,8 @@ You can use this project to create your own digital business card. Follow the st
    ```sh
    npm run build
    ```
-
 ## Deployment
-This project is deployed on Netlify and can be accessed [here](https://digital-biz-card.netlify.app).
+This project is deployed on Netlify and can be accessed [here](biz-card-digital.netlify.app).
 
 ## License
 This project is licensed under the MIT License.
