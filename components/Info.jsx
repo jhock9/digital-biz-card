@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Info() {
+const Info = () => {
   return (
     <div className="info center">
       <img src="./assets/jon-headshot.webp" alt="Your Name" className="info-photo center" />

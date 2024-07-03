@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Interests() {
+const Interests = () => {
   return (
     <div className="interests center">
       <h2>Interests</h2>

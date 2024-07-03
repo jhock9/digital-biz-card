@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Footer() {
+const Footer = () => {
   return (
     <div className="footer center">
       <a href="https://www.linkedin.com/in/jonhocker/" target="_blank" rel="noopener noreferrer">
@@ -12,7 +12,5 @@ function Footer() {
     </div>
   );
 }
-
-
 
 export default Footer;
