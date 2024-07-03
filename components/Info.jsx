@@ -3,7 +3,7 @@ import React from 'react';
 const Info = () => {
   return (
     <div className="info center">
-      <img src="./assets/jon-headshot.webp" alt="Your Name" className="info-photo center" />
+      <img src="./assets/jon-headshot.webp" alt="Jon Hocker headshot" className="info-photo center" />
       <h1 className="info-name center">Jon Hocker</h1>
       <p className="info-role center">Web Developer / Software Engineer</p>
       <p className="info-website center">
