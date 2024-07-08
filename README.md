@@ -6,7 +6,7 @@ This project demonstrates a digital business card built with React, featuring cu
   - [Features](#features)
   - [Example](#example)
   - [Technologies Used](#technologies-used)
-  - [Installation Instructions](#installation-instructions)
+  - [Create Your Own Card](#create-your-own-card)
   - [Deployment](#deployment)
   - [License](#license)
   - [Acknowledgements](#acknowledgements)
@@ -34,8 +34,8 @@ This project demonstrates a digital business card built with React, featuring cu
 - Node.js
 - Vite.js
 
-## Installation Instructions
-You can use this project to create your own digital business card. Follow the steps below to customize it for yourself:
+## Create Your Own Card
+Follow the steps below to customize one for yourself:
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/en/)
