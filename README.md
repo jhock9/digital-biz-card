@@ -22,11 +22,10 @@ This project demonstrates a digital business card built with React, featuring cu
 
 ## Example
 <p align="center">
-  <p align="center">
-    <a href="https://biz-card-digital.netlify.app/" target="_blank" rel="noopener noreferrer">
-      <img src="examples/jon-hocker.png" width="350">
-    </a>
-  </p>
+  <a href="https://biz-card-digital.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="examples/jon-hocker.png" width="350">
+  </a>
+</p>
 
 ## Technologies Used
 - React
