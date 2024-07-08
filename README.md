@@ -23,7 +23,7 @@ This project demonstrates a digital business card built with React, featuring cu
 ## Example
 <p align="center">
   <p align="center">
-    <a href="https://digital-biz-card.netlify.app" target="_blank" rel="noopener noreferrer">
+    <a href="https://biz-card-digital.netlify.app/" target="_blank" rel="noopener noreferrer">
       <img src="examples/jon-hocker.png" width="350">
     </a>
   </p>
@@ -78,7 +78,7 @@ You can use this project to create your own digital business card. Follow the st
    npm run build
    ```
 ## Deployment
-This project is deployed on Netlify and can be accessed [here](biz-card-digital.netlify.app).
+This project is deployed on Netlify and can be accessed [here](https://biz-card-digital.netlify.app/).
 
 ## License
 This project is licensed under the MIT License.
